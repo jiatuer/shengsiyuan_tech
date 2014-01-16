@@ -1,4 +1,4 @@
-package com.shengsiyuan.exception;
+package com.shengsiyuan.exception.runorder;
 
 public class Test6 {
 
@@ -25,7 +25,7 @@ public class Test6 {
 		{
 			i=1;
 			System.out.println("run catch");
-			return i;		//return 1 then execute finally,so this method return 1
+			return i;		//return 1 first, then execute finally,so this method return 1
 		}
 		finally
 		{
