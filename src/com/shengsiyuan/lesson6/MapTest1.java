@@ -15,10 +15,13 @@ public class MapTest1 {
 		map.put("c","wangwu");
 		map.put("c","liudehua");
 		map.put(1,"s");
+		map.put(2, "3");
+		map.put(2, "4");
 		
 		System.out.println(map);
 		//由key获得value
 		System.out.println(map.get(1));
+		System.out.println(map.get(2));
 		//无key返回null 
 		System.out.println(map.get(3));
 		//获得map中key信息
