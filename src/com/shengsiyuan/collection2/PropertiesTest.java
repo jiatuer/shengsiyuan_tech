@@ -1,4 +1,4 @@
-package com.shengsiyuan.lesson7;
+package com.shengsiyuan.collection2;
 
 import java.util.Iterator;
 import java.util.Properties;

@@ -1,4 +1,4 @@
-package com.shengsiyuan.lesson6;
+package com.shengsiyuan.collection2;
 
 import java.util.HashMap;
 
