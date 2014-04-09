@@ -1,4 +1,4 @@
-package com.shengsiyuan.lesson6;
+package com.shengsiyuan.collection;
 
 public class StringHeTest {
 
